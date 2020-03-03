@@ -1,0 +1,21 @@
+                                                                                                                   Name: Chandrakumar A T
+                                                                                                                   Emp Id: 844561
+                                                                                                                   Fse-Chennai
+                                                                                                                   Trainer: suresh
+
+
+
+
+My associate Id: 844561 and my team members are
+1. 844627
+2. 844603
+3. 844619
+4. 844513
+My mini project is available in Github as” 844561-codesprint-ux-mywork” on Personal Fitness Trainer. My github  link : https://github.com/chandu16
+1.	https://github.com/chandru16/844561-codesprint-ux-mywork.git
+2.	https://github.com/chandru16/844561-codesprint-ux-teamwork.git
+
+In this code sprint contains Html, CSS, and Bootstraps, angular:
+In this codesprint-ux   my developing role is to create a Home component(page) implementing routing and integrating all other components.  . 
+
+
