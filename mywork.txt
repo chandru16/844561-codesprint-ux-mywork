@@ -9,7 +9,7 @@
 My associate Id: 844561 and my team members are
 1. 844627
 2. 844603
-3. 844619
+3. 844551
 4. 844513
 My mini project is available in Github as” 844561-codesprint-ux-mywork” on Personal Fitness Trainer. My github  link : https://github.com/chandu16
 1.	https://github.com/chandru16/844561-codesprint-ux-mywork.git
